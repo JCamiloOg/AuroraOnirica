@@ -47,7 +47,6 @@ import "@/styles/scrollbar.css";
 import { changeStatusEvent, createEvent, getAllEvents, getEventByID, updateEventByID, updateEventByLang, updateEventImage } from "@/services/eventsServices";
 
 /* Config */
-import { API_URL_IMAGES } from "@/config/config";
 import i18n from "@/config/i18n";
 
 /* utils */

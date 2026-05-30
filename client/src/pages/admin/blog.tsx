@@ -39,7 +39,6 @@ import { changeStatusArticle, createArticle, getAllArticles, getArticleByID, upd
 
 /* Config */
 import i18n from "@/config/i18n";
-import { API_URL_IMAGES } from "@/config/config";
 
 /* CSS */
 import "@/styles/scrollbar.css";
