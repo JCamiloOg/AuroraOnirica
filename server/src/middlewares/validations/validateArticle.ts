@@ -13,7 +13,7 @@ export const validateCreateArticle = [
         .withMessage(((_, { req }: { req: Request }) => {
             return t("validate:isStringTitle", req.lang);
         }))
-        .isLength({ min: 3, max: 40 })
+        .isLength({ min: 3, max: 140 })
         .withMessage((_, { req }: { req: Request }) => {
             return t("validate:minMaxTitle", req.lang);
         }),
@@ -27,7 +27,7 @@ export const validateCreateArticle = [
         .withMessage((_, { req }: { req: Request }) => {
             return t("validate:isStringSubtitle", req.lang);
         })
-        .isLength({ min: 3, max: 40 })
+        .isLength({ min: 3, max: 140 })
         .withMessage((_, { req }: { req: Request }) => {
             return t("validate:minMaxSubtitle", req.lang);
         }),
@@ -41,7 +41,7 @@ export const validateCreateArticle = [
         .withMessage((_, { req }: { req: Request }) => {
             return t("validate:isStringDescription", req.lang);
         })
-        .isLength({ min: 50, max: 20000 })
+        .isLength({ min: 50, max: 40000 })
         .withMessage((_, { req }: { req: Request }) => {
             return t("validate:minMaxDescription", req.lang);
         })
@@ -65,7 +65,7 @@ export const validateUpdateArticle = [
         .withMessage((_, { req }) => {
             return t("validate:isStringTitle", req.lang);
         })
-        .isLength({ min: 3, max: 40 })
+        .isLength({ min: 3, max: 140 })
         .withMessage((_, { req }) => {
             return t("validate:minMaxTitle", req.lang);
         }),
@@ -79,7 +79,7 @@ export const validateUpdateArticle = [
         .withMessage((_, { req }) => {
             return t("validate:isStringSubtitle", req.lang);
         })
-        .isLength({ min: 3, max: 40 })
+        .isLength({ min: 3, max: 140 })
         .withMessage((_, { req }) => {
             return t("validate:minMaxSubtitle", req.lang);
         }),
@@ -93,7 +93,7 @@ export const validateUpdateArticle = [
         .withMessage(((_, { req }) => {
             return t("validate:isStringDescription", req.lang);
         }))
-        .isLength({ min: 10, max: 20000 })
+        .isLength({ min: 10, max: 40000 })
         .withMessage((_, { req }) => {
             return t("validate:minMaxDescription", req.lang);
         }),
