@@ -2,8 +2,6 @@ import { findAllArticles, findArticleByID, insertArticle, insertArticleTranslati
 import { Article, ArticleByID, CreateArticle, UpdateArticle } from "@/types/articles";
 import { t } from "@/utils/t";
 import { Request, Response } from "express";
-import { readFileSync, unlinkSync } from "fs";
-import path from "path";
 import sharp from "sharp";
 import axios from "axios";
 import FormData from "form-data";
@@ -39,21 +37,16 @@ export async function createArticle(req: Request<unknown, unknown, CreateArticle
 
         if (!file) return res.status(400).json({ message: t("NOT_FILE_UPLOAD", req.lang) });
 
-        const filePath = file.path;
-        const fileNoExt = file.filename.replace(/\.[^/.]+$/, "");
+        const filePath = file.buffer;
 
-        const extWebp = ".webp";
-        const fileWebp = path.join(path.join("public/uploads", fileNoExt + extWebp));
 
-        await sharp(filePath)
+        const webp = await sharp(filePath)
             .toFormat("webp")
-            .toFile(fileWebp);
-
-        unlinkSync(filePath);
+            .toBuffer();
 
         const form = new FormData();
 
-        form.append("image", readFileSync(fileWebp, "base64"));
+        form.append("image", webp.toString("base64"));
 
         const { data } = await axios.post<ResponseImgBB>(
             `https://api.imgbb.com/1/upload?key=${API_KEY_IMGBB}`,
@@ -63,7 +56,6 @@ export async function createArticle(req: Request<unknown, unknown, CreateArticle
             }
         );
 
-        unlinkSync(fileWebp);
 
         const { title_es, title_en, subtitle_es, subtitle_en, description_es, description_en } = req.body;
 
@@ -107,18 +99,15 @@ export async function updateArticleImage(req: Request<{ id: string }>, res: Resp
 
         const { id } = req.params;
 
-        const filePath = file.path;
-        const fileNoExt = file.filename.replace(/\.[^/.]+$/, "");
-        const extWebp = ".webp";
-        const fileWebp = path.join(path.join("public/uploads", fileNoExt + extWebp));
+        const filePath = file.buffer;
 
-        await sharp(filePath)
+        const webp = await sharp(filePath)
             .toFormat("webp")
-            .toFile(fileWebp);
+            .toBuffer();
 
         const form = new FormData();
 
-        form.append("image", readFileSync(fileWebp, "base64"));
+        form.append("image", webp.toString("base64"));
 
         const { data } = await axios.post<ResponseImgBB>(
             `https://api.imgbb.com/1/upload?key=${API_KEY_IMGBB}`,
@@ -135,8 +124,6 @@ export async function updateArticleImage(req: Request<{ id: string }>, res: Resp
         ]);
 
         await axios.get(article[0].delete_url);
-        unlinkSync(fileWebp);
-        unlinkSync(filePath);
 
         return res.status(200).json({ message: t("articles:ARTICLE_UPDATE_IMAGE_SUCCESS", req.lang) });
     } catch (error) {

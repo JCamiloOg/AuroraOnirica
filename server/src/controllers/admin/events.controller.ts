@@ -6,8 +6,6 @@ import { t } from "@/utils/t";
 import axios from "axios";
 import { Request, Response } from "express";
 import FormData from "form-data";
-import { readFileSync, unlinkSync } from "fs";
-import path from "path";
 import sharp from "sharp";
 
 export async function getEvents(req: Request<{ id?: number }, unknown, unknown, { lang?: string }>, res: Response<{ message: string, events?: Events[] | EventsByID[] }>) {
@@ -38,21 +36,15 @@ export async function createEvent(req: Request<unknown, unknown, CreateEvent>, r
 
         if (!file) return res.status(400).json({ message: t("events:NOT_FILE_UPLOAD", req.lang) });
 
-        const filePath = file.path;
-        const fileNoExt = file.filename.replace(/\.[^/.]+$/, "");
+        const filePath = file.buffer;
 
-        const extWebp = ".webp";
-        const fileWebp = path.join(path.join("public/events", fileNoExt + extWebp));
-
-        await sharp(filePath)
+        const webp = await sharp(filePath)
             .toFormat("webp")
-            .toFile(fileWebp);
-
-        unlinkSync(filePath);
+            .toBuffer();
 
         const form = new FormData();
 
-        form.append("image", readFileSync(fileWebp, "base64"));
+        form.append("image", webp.toString("base64"));
 
         const { data } = await axios.post<ResponseImgBB>(
             `https://api.imgbb.com/1/upload?key=${API_KEY_IMGBB}`,
@@ -61,8 +53,6 @@ export async function createEvent(req: Request<unknown, unknown, CreateEvent>, r
                 headers: form.getHeaders()
             }
         );
-
-        unlinkSync(fileWebp);
 
         const { title_es, title_en, description_es, description_en, address, date, hour, inscription_link, modality } = req.body;
         const response = await insertEvent(date, hour, modality, address, inscription_link, data.data.url, data.data.delete_url);
@@ -114,21 +104,15 @@ export async function updateEventImage(req: Request<{ id: string }>, res: Respon
 
         const { id } = req.params;
 
-        const filePath = file.path;
-        const fileNoExt = file.filename.replace(/\.[^/.]+$/, "");
+        const filePath = file.buffer;
 
-        const extWebp = ".webp";
-        const fileWebp = path.join(path.join("public/events", fileNoExt + extWebp));
-
-        await sharp(filePath)
+        const webp = await sharp(filePath)
             .toFormat("webp")
-            .toFile(fileWebp);
-
-        unlinkSync(filePath);
+            .toBuffer();
 
         const form = new FormData();
 
-        form.append("image", readFileSync(fileWebp, "base64"));
+        form.append("image", webp.toString("base64"));
 
         const { data } = await axios.post<ResponseImgBB>(
             `https://api.imgbb.com/1/upload?key=${API_KEY_IMGBB}`,
@@ -145,8 +129,6 @@ export async function updateEventImage(req: Request<{ id: string }>, res: Respon
         ]);
 
         await axios.get(event[0].delete_url);
-        unlinkSync(fileWebp);
-        unlinkSync(filePath);
 
         return res.status(200).json({ message: t("events:UPDATE_EVENT_IMAGE_SUCCESS", req.lang) });
     } catch (error) {
