@@ -1,0 +1,498 @@
+{
+  "index": {
+    "bioOmar": "Psicólogo clínico, psicoanalista y creador interdisciplinario con una trayectoria orientada a la exploración de la psique, el lenguaje simbólico y las manifestaciones del inconsciente. A lo largo de su experiencia ha desarrollado un enfoque propio que integra el análisis de cuentos tradicionales, el estudio de los arquetipos y la interpretación simbólica y narrativa de los sueños como vías privilegiadas para comprender la experiencia humana.",
+    "mission": "Misión",
+    "vision": "Visión",
+    "missionDescription": "Nuestra misión acompañar a las personas en la comprensión de sus sueños y su mundo interior mediante la psicología profunda y el lenguaje simbólico.",
+    "visionDescription": "Nuestra visión es ser un referente en el estudio de los sueños, los símbolos y el autoconocimiento, integrando psicología, arte y exploración del mundo interior.",
+    "philosophy": {
+      "title": "Filosofía y enfoque",
+      "point-1": "La psicología profunda y los arquetipos",
+      "point-2": "Mitos, cuentos y simbolismo universa",
+      "point-3": "Narrativa personal como transformación",
+      "point-4": "Escucha del mundo interior"
+    },
+    "readMore": "Leer más",
+    "methodology": {
+      "title": "Metodología",
+      "p-1": "En Aurora Onírica creemos que los sueños son un puente entre la consciencia y el alma.",
+      "p-2": "Cada símbolo es una puerta, cada imagen es una historia, cada escenario onírico es un espejo."
+    },
+    "purpose": "Nuestro propósito es acompañarte en el descubrimiento de tu mundo interior para que, al conocerte profundamente, encuentres claridad, transformación y un sentido más auténtico de tu camino."
+  },
+  "services": {
+    "title": "Nuestros servicios",
+    "p-1": "Cada espacio esta diseñado para que las personas puedan ver con claridad lo que su mundo interior quiere expresar.",
+    "p-2": "Sin filtros ni juicios.",
+    "differential": "Diferencial",
+    "readMore": "Leer más",
+    "readServices": "Ver servicios",
+    "itsForYou": "Es para ti si",
+    "price": "Los horarios, duración y precios se envían por privado según los requerimientos.",
+    "point-1": "🌙 Sientes que tus sueños traen mensajes importantes.",
+    "point-2": "🔄 Estás en un momento de cambio, crisis o búsqueda.",
+    "point-3": "🗝️ Te interesa el simbolismo, los cuentos de hadas o la psicología profunda.",
+    "point-4": "🪞 Quieres comprender mejor tu mundo interior.",
+    "point-5": "🎓 Eres estudiante de psicología o terapeuta.",
+    "point-6": "🎨 Eres creador, artista o escritor y buscas inspiración.",
+    "point-7": "🔮 Deseas conectar con tu intuición, tu inconsciente y tu historia personal.",
+    "goBack": "Volver",
+    "individual": {
+      "title": "Individual",
+      "description": "Una experiencia íntima y profunda donde exploramos tus sueños, símbolos y movimientos internos desde la psicología profunda. En este espacio, te guiamos a reconocer las fuerzas arquetipicas que operan desde tu inconsciente, revelando aquello que tu alma ya sabe, pero tu conciencia aún no ha escuchado.",
+      "paragraph_2": "Cada sesión es un puente entre tu mundo interno y tu realidad cotidiana: lo que descubres adentro se alinea con transformaciones reales afuera. Aquí acompañamos tu proceso desde la metáfora, lo simbólico y el lenguaje onírico, para que avances hacia una versión más consciente y auténtica de ti",
+      "differential": "Un abordaje simbólico-psicológico único que integra sueños, fantasías arquetipos y narrativas internas para activar cambios reales en lo cotidiano. Tu sueño guía el proceso, y tu vida responde activamente."
+    },
+    "couple": {
+      "title": "Pareja",
+      "description": "Un espacio seguro donde cada miembro de la pareja escucha no solo al otro, sino también a su propio mundo interno; a través de los sueños, los símbolos y la toma de conciencia de las proyecciones psíquicas que la pareja se hace mutuamente. Acompañamos este proceso para descubrir las dinámicas ocultas que influyen en el vínculo: aquello que no se dice, pero se sueña; aquello que no se nombra, pero se repite.",
+      "paragraph_2": "Desde la psicología profunda, ayudamos a la pareja a transformar heridas, patrones y tensiones mediante una comprensión más honesta, compasiva y consciente del camino juntos.",
+      "differential": "Un enfoque simbólico que revela la mitología inconsciente de la pareja. Lo que cada uno trabaja internamente se refleja en el vínculo, generando cambios reales en la relación."
+    },
+    "conferences": {
+      "title": "Conferencias profundas",
+      "description": "Charlas inspiradoras y revitalizantes donde los sueños, los arquetipos y la vida psíquica se presentan como escenarios fundamentales para comprender la experiencia humana. Cada conferencia transforma la forma en que el público entiende sus procesos internos, mostrando cómo lo simbólico y lo onírico modelan la realidad cotidiana.",
+      "paragraph_2": "",
+      "differential": "Narrativas poderosas que conectan ciencia, poesía, arte y espiritualidad con ejemplos prácticos y conectados con los fenómenos sociales de la época. El público se lleva claridad, motivación y una nueva mirada sobre sí mismo."
+    },
+    "workshops": {
+      "title": "Talleres",
+      "description": "Encuentros experienciales donde el mundo de los sueños cobra vida como herramienta creativa, psicológica, espiritual y transformadora. Aquí guiamos a los participantes a explorar los complejos psicológicos personales y colectivos.",
+      "paragraph_2": "Cada taller está diseñado para provocar un despertar: lo que descubres en tu mundo interno te permite actuar con mayor claridad, poder personal y coherencia para interactuar en tu realidad exterior.",
+      "differential": "Metodologías únicas basadas en psicología profunda, arte, simbolismo y dinámicas vivenciales. Los talleres de Aurora Onírica mueven la energía psiquica para que la transformación sea un hecho desde adentro y una manifestación en las relaciones interpersonales de cada persona."
+    },
+    "webinars": {
+      "title": "Webinars Masterclass",
+      "description": "Espacios online formativos, intensivos y profundamente reveladores. Nos enfocamos en enseñar cómo relacionarnos activamente con nuestros sueños, comprender arquetipos y trabajar con el inconsciente siendo aplicable al acontecer de la vida diaria de las personas.",
+      "paragraph_2": "Lo que aprendes te permite entender tu mundo interno con un nuevo lenguaje, desbloquear procesos personales y accionar cambios en tu realidad externa. ",
+      "paragraph_3": "Usamos la imaginación creadora para que el conocimiento sea encarnado desde las profundidades del ser, otorgando en tu vida una nueva realidad.",
+      "differential": "Contenido claro, profundo y aplicable, guiado desde el pensamiento onírico y la psicología simbólica. No solo se aprende: se transforma."
+    },
+    "consulting": {
+      "title": "Asesorías especializadas",
+      "description": "Acompañamiento personalizado para creadores, terapeutas, artistas, psicólogos y emprendedores que necesiten integrar la mirada simbólica y onírica en sus proyectos o procesos.",
+      "paragraph_2": "Estudiamos y exploramos tus ideas, tu propósito y tu visión, entendiendo qué existen fuerzas internas que al acompañarte te guian y facilitan tu camino o, por lo contrario, te bloquean. ¡siempre! hay fuerzas internas que te acompañan.  Te ayudamos a alinear tu mundo psíquico con tus metas externas.",
+      "differential": "Una asesoría que va más allá de lo técnico: trabajamos con tu mundo inconsciente para que tu proyecto tenga alma, coherencia y realidad integral. Es decir, conexión y correspondencia entre tu interior y tú exterior."
+    },
+    "encounters": {
+      "title": "Encuentros creativos",
+      "description": "Experiencias vivenciales donde combinamos el poder de la imaginación activa la creatividad, la ventura del arte, la profundidad de lo simbólico y la exploración de tus paisajes internos. Aquí se crean personajes psíquicos, escenarios oniricos, alidos poderosos y narrativas simbólicas que revelan tu mitología personal.",
+      "paragraph_2": "El proceso creativo se convierte en terapia: lo que surge en la obra es un mensaje del alma que transforma tu vida afuera.",
+      "differential": "Integramos arte, psicología profunda, sueños y creatividad como un camino de autoconocimiento. Un laboratorio de imagenes, sensaciones y afectos donde el mundo interno se expresa para reordenar tu vida exterior."
+    }
+  },
+  "navBar": {
+    "home": "Inicio",
+    "blog": "Blog",
+    "events": "Eventos",
+    "services": "Servicios",
+    "aboutUs": "Quienes Somos",
+    "contact": "Contacto"
+  },
+  "heroSection": {
+    "slogan": "Donde los sueños revelan su significado",
+    "explore": "Explorar",
+    "card1": "Sesiones individuales",
+    "card2": "Conferencias profundas",
+    "card3": "Encuentros creativos"
+  },
+  "aboutUs": {
+    "slogan": "Donde los sueños revelan su significado",
+    "creadoresOniricos": {
+      "p-1": "Aurora Onírica es un espacio dedicado a la exploración del mundo interior a través de la comprensión de los sueños, los símbolos y las narrativas que emergen del inconsciente. Desde una perspectiva psicológica, artística y profundamente humana, acompañamos a cada persona en el proceso de descubrir nuevos significados, ampliar su autoconocimiento y fortalecer su conexión consigo misma.",
+      "p-2": "Más que un consultorio, es un lugar de encuentro con la propia historia."
+    },
+    "bioOmar": {
+      "p-1": "Psicólogo clínico, psicoanalista y creador interdisciplinario con una trayectoria orientada a la exploración de la psique, el lenguaje simbólico y las manifestaciones del inconsciente. A lo largo de su experiencia ha desarrollado un enfoque propio que integra el análisis de cuentos tradicionales, el estudio de los arquetipos y la interpretación simbólica y narrativa de los sueños como vías privilegiadas para comprender la experiencia humana.",
+      "p-2": "Su trabajo terapéutico se fundamenta en la escucha atenta, la comprensión profunda de los símbolos y el respeto por la singularidad de cada historia personal. Desde esta perspectiva, los sueños no son entendidos como mensajes proféticos ni como predicciones del futuro, sino como expresiones significativas del inconsciente que ofrecen orientación sobre los conflictos, desafíos y posibilidades presentes en la vida de cada persona."
+    },
+    "mission": {
+      "title": "Misión",
+      "p-1": "Acompañar a las personas en la comprensión de sus sueños y su mundo interior mediante la psicología profunda y el lenguaje simbólico.",
+      "p-2": "Nuestra misión es facilitar procesos de autoconocimiento y brindar herramientas que promuevan claridad, transformación y conexión con la propia esencia."
+    },
+    "vision": {
+      "title": "Visión",
+      "p-1": "Ser un referente en el estudio de los sueños, los símbolos y el autoconocimiento, integrando psicología, arte y exploración del mundo interior.",
+      "p-2": "Aspiramos a construir una comunidad que encuentre en los sueños una vía para comprenderse, crecer y dar sentido a su experiencia de vida."
+    },
+    "philosophy": {
+      "title": "Filosofía y enfoque",
+      "p-1": "En Aurora Onírica creemos que los sueños son un puente entre la consciencia y el alma. Cada símbolo es una puerta, cada imagen es una historia, cada escenario onírico es un espejo.",
+      "p-2": "Cada sueño muestra el camino;  nuestra labor es ayudarte a entrar en un ralación dinámica, valiente, expansiva e integrativa que ha de unificar tu realidad externa y tu realidad interior.",
+      "points": {
+        "subtitle": "Nuestra filosofía se sustenta en",
+        "1": "🧠 La psicología profunda y los arquetipos.",
+        "2": "🧚‍♂️ Los cuentos de hadas y la mitología universal.",
+        "3": "🃏 El tarot como herramienta de contemplación y proyección del inconciente personal.",
+        "4": "📖 La narrativa personal como camino de transformación.",
+        "5": "🗣️ El arte de escuchar, dialogar, comprender y relacionarnos, con las fuerzas vivas del mundo interior."
+      }
+    }
+  },
+  "blog": {
+    "noArticles": "No hay articulos para mostrar.",
+    "glossary": "Palabras claves"
+  },
+  "glossary": {
+    "title": "PALABRAS",
+    "noWords": "No hay palabras para mostrar.",
+    "paragraph": "A lo largo del blog pueden aparecer palabras o conceptos que no son habituales. En este apartado los recopilamos y explicamos de manera clara para que puedas entender mejor cada artículo, independientemente de tu nivel de conocimiento."
+  },
+  "events": {
+    "title": "Próximos Eventos",
+    "noEvents": "No hay eventos para mostrar.",
+    "modality1": "Presencial",
+    "modality2": "Virtual",
+    "link": "Enlace de inscripción"
+  },
+  "footer": {
+    "contact": "Contacto",
+    "schedule": "Agendar",
+    "chars": "Características",
+    "bilingual": "Atención bilingüe",
+    "modality": "Modalidad presenicial y/o virtual"
+  },
+  "socialNetworks": {
+    "titleLeft": "Contacto",
+    "titleRight": "Redes Sociales",
+    "copyLink": "Copiar enlace",
+    "copied": "Enlace copiado al portapapeles",
+    "goToLink": "Abrir enlace"
+  },
+  "404": {
+    "title": "Página no encontrada",
+    "description": "Lo sentimos, la página que estás buscando no existe.",
+    "description_2": "Puede que esto no signifique nada.",
+    "goBack": "Volver"
+  },
+  "admin": {
+    "siderbar": {
+      "title": "Menú",
+      "events": "Eventos",
+      "blog": "Blog",
+      "users": "Usuarios",
+      "glossary": "Glosario",
+      "settings": "Configuración",
+      "language": "Cambiar idioma",
+      "logout": "Cerrar sesión"
+    },
+    "login": {
+      "title": "Ingresar al portal de administrador.",
+      "subtitle": "Ingresa el usuario y contraseña.",
+      "form": {
+        "username": "Nombre de Usuario",
+        "usernamePlaceholder": "Ingresa tu nombre de usuario",
+        "password": "Contraseña",
+        "passwordPlaceholder": "Ingresa tu contraseña.",
+        "errors": {
+          "username": {
+            "required": "El nombre de usuario es requerido.",
+            "minLength": "El nombre de usuario es muy corto.",
+            "maxLength": "El nombre de usuario es muy largo."
+          },
+          "password": {
+            "required": "La contraseña es requerida.",
+            "minLength": "La contraseña es muy corta.",
+            "maxLength": "La contraseña es muy larga."
+          }
+        },
+        "submit": "Ingresar"
+      }
+    },
+    "blog": {
+      "header": {
+        "link": "Inicio",
+        "title": "Blog"
+      },
+      "errors": {
+        "requiredTitle": "El título es requerido.",
+        "requiredSubtitle": "El subtítulo es requerido.",
+        "requiredDescription": "La descripción es requerida.",
+        "requiredImage": "La imagen es requerida.",
+        "imageExt": "El archivo es inválido.",
+        "maxLengthTitle": "El título es muy largo.",
+        "maxLengthSubtitle": "El subtítulo es muy largo.",
+        "maxLengthDescription": "La descripción es muy larga.",
+        "minLengthTitle": "El título es muy corto.",
+        "minLengthSubtitle": "El subtítulo es muy corto.",
+        "minLengthDescription": "La descripción es muy corta."
+      },
+      "title": "ARTICULOS DEL BLOG",
+      "table": {
+        "add": "Añadir artículo",
+        "title": "Titulo",
+        "subtitle": "Subtítulo",
+        "date": "Fecha de publicación",
+        "status": "Estado del artículo",
+        "actions": "Acciones",
+        "search": "Buscar por título",
+        "columns": "Columnas",
+        "buttonNext": "Siguiente",
+        "buttonPrev": "Anterior",
+        "page": "Página",
+        "of": "de",
+        "status1": "Activado",
+        "status0": "Desactivado",
+        "viewMore": "Ver más",
+        "editEn": "Editar versión en inglés",
+        "editEs": "Editar versión en español",
+        "editImage": "Actualizar imagen",
+        "changeStatus": "Cambiar estado",
+        "noData": "No hay resultados con tu búsqueda."
+      },
+      "dialogs": {
+        "viewMore": {
+          "titleDialog": "Información completa del articulo",
+          "title": "Título del artículo",
+          "subtitle": "Subtítulo del artículo",
+          "date": "Fecha de publicación",
+          "description": "Descripción del artículo",
+          "status": "Estado del artículo",
+          "status1": "Activado",
+          "status0": "Desactivado",
+          "image": "Imágen del artículo"
+        },
+        "updateVersion": {
+          "titleDialog": "Actualizar versión",
+          "title": "Título del artículo",
+          "subtitle": "Subtítulo del artículo",
+          "description": "Descripción del artículo",
+          "submit": "Actualizar",
+          "errors": {
+            "noData": "No se ha podido identificar el artículo."
+          }
+        },
+        "updateImage": {
+          "titleDialog": "Actualizar imagen",
+          "submit": "Actualizar",
+          "image": "Selecciona la nueva imágen",
+          "currentImage": "Imagen actual."
+        },
+        "create": {
+          "titleDialog": "Crear artículo",
+          "title_es": "Título en español",
+          "title_en": "Título en inglés",
+          "subtitle_es": "Subtítulo en español",
+          "subtitle_en": "Subtítulo en inglés",
+          "description_es": "Descripción en español",
+          "description_en": "Descripción en inglés",
+          "image": "Imagen",
+          "submit": "Crear"
+        }
+      }
+    },
+    "events": {
+      "header": {
+        "link": "Inicio",
+        "title": "Eventos"
+      },
+      "errors": {
+        "requiredTitle": "El título es requerido.",
+        "requiredDescription": "La Información del evento es requerida.",
+        "maxLengthTitle": "El título es muy largo.",
+        "minLengthTitle": "El título es muy corto.",
+        "maxLengthDescription": "La Información del evento es muy larga.",
+        "minLengthDescription": "La Información del evento es muy corta.",
+        "requiredDate": "La fecha es requerida.",
+        "requiredTime": "La hora es requerida.",
+        "requiredModality": "La modalidad es requerida.",
+        "requiredAddress": "La dirección es requerida si la modalidad es presencial",
+        "requiredInscriptionLink": "El enlace de inscripción es requerido si la modalidad es virtual",
+        "minLengthAddress": "La dirección es muy corta.",
+        "maxLengthAddress": "La dirección es muy larga.",
+        "minlengthInscriptionLink": "El enlace de inscripción es muy corto.",
+        "maxlengthInscriptionLink": "El enlace de inscripción es muy largo."
+      },
+      "title": "EVENTOS",
+      "table": {
+        "title": "Título",
+        "modality": "Modalidad",
+        "InPerson": "Presencial",
+        "virtual": "Virtual",
+        "date": "Fecha del evento",
+        "hour": "Hora del evento",
+        "status": "Estado del evento",
+        "status1": "Activado",
+        "status0": "Desactivado",
+        "actions": "Acciones",
+        "search": "Buscar por título",
+        "columns": "Columnas",
+        "buttonNext": "Siguiente",
+        "buttonPrev": "Anterior",
+        "page": "Página",
+        "of": "de",
+        "viewMore": "Ver más",
+        "edit": "Editar evento",
+        "editEn": "Editar versión en inglés",
+        "editEs": "Editar versión en español",
+        "editImage": "Actualizar imagen",
+        "changeStatus": "Cambiar estado",
+        "noData": "No hay resultados con tu búsqueda.",
+        "add": "Añadir Evento"
+      },
+      "dialogs": {
+        "viewMore": {
+          "titleDialog": "Información completa del evento",
+          "title": "Titulo del  evento",
+          "date": "Fecha del evento",
+          "hour": "Hora del evento",
+          "description": "Descripción del artículo",
+          "inscription_link": "Enlace de inscripción",
+          "address": "Dirección del evento",
+          "status": "Estado del evento",
+          "noApply": "No aplica.",
+          "image": "Imágen del evento"
+        },
+        "update": {
+          "titleDialog": "Actualizar evento",
+          "selectDate": "Selecciona la fecha del evento",
+          "date": "Fecha del evento",
+          "time": "Hora del evento",
+          "modality": "Modalidad del evento",
+          "modality1": "Presencial",
+          "modality2": "Virtual",
+          "address": "Dirección del evento",
+          "inscription_link": "Enlace de inscripción",
+          "submit": "Actualizar"
+        },
+        "updateVersion": {
+          "titleDialog": "Actualizar versión",
+          "title": "Título del evento",
+          "description": "Descripción del evento",
+          "submit": "Actualizar",
+          "errors": {
+            "noData": "No se ha podido identificar el evento."
+          }
+        },
+        "updateImage": {
+          "titleDialog": "Actualizar imagen",
+          "submit": "Actualizar",
+          "image": "Selecciona la nueva imágen",
+          "currentImage": "Imagen actual."
+        },
+        "create": {
+          "titleDialog": "Crear Evento",
+          "title_es": "Título en español",
+          "title_en": "Título en inglés",
+          "description_es": "Información del evento en español",
+          "description_en": "Información del evento en inglés",
+          "date": "Fecha del evento",
+          "selectDate": "Selecciona la fecha del evento",
+          "time": "Hora del evento",
+          "modality": "Modalidad del evento",
+          "modality1": "Presencial",
+          "modality2": "Virtual",
+          "address": "Dirección del evento",
+          "inscription_link": "Enlace de inscripción",
+          "image": "Imagen",
+          "submit": "Crear"
+        }
+      }
+    },
+    "glossary": {
+      "header": {
+        "link": "Inicio",
+        "title": "Glosario"
+      },
+      "errors": {
+        "requiredWord": "La palabra es requerida.",
+        "requiredDefinition": "La definición es requerida.",
+        "maxLengthWord": "La palabra es muy larga.",
+        "minLengthWord": "La palabra es muy corta.",
+        "maxLengthDefinition": "La definición es muy larga.",
+        "minLengthDefinition": "La definición es muy corta."
+      },
+      "title": "PALABRAS",
+      "table": {
+        "word": "Palabra",
+        "definition": "Definición de la palabra",
+        "status": "Estado de la palabra",
+        "status0": "No visible",
+        "status1": "Visible",
+        "actions": "Acciones",
+        "search": "Buscar por palabra",
+        "columns": "Columnas",
+        "buttonNext": "Siguiente",
+        "buttonPrev": "Anterior",
+        "page": "Página",
+        "of": "de",
+        "add": "Añadir palabra",
+        "editEs": "Editar palabra en español",
+        "editEn": "Editar palabra en inglés",
+        "changeStatus": "Cambiar estado",
+        "noData": "No hay resultados con tu búsqueda."
+      },
+      "dialogs": {
+        "create": {
+          "titleDialog": "Crear palabra",
+          "word_es": "Palabra en español",
+          "word_en": "Palabra en inglés",
+          "definition_es": "Definición en español",
+          "definition_en": "Definición en inglés",
+          "submit": "Crear"
+        },
+        "update": {
+          "titleDialog": "Actualizar palabra",
+          "word": "Palabra",
+          "definition": "Definición",
+          "submit": "Actualizar",
+          "errors": {
+            "noData": "No se ha podido identificar la palabra."
+          }
+        }
+      }
+    },
+    "users": {
+      "header": {
+        "link": "Inicio",
+        "title": "Usuarios"
+      },
+      "errors": {
+        "requiredUser": "El usuario es requerido.",
+        "requiredPassword": "La contraseña es requerida.",
+        "minLengthUser": "El usuario es muy corto.",
+        "maxLengthUser": "El usuario es muy largo.",
+        "minLengthPassword": "La contraseña es muy corta.",
+        "maxLengthPassword": "La contraseña es muy larga.",
+        "patternPassword": "La contraseña debe tener al menos 3 números y una mayúscula."
+      },
+      "title": "USUARIOS",
+      "table": {
+        "username": "Usuario",
+        "password": "Contraseña",
+        "status": "Estado del usuario",
+        "status1": "Activado",
+        "status0": "Desactivado",
+        "actions": "Acciones",
+        "search": "Buscar por usuario",
+        "columns": "Columnas",
+        "buttonNext": "Siguiente",
+        "buttonPrev": "Anterior",
+        "page": "Página",
+        "of": "de",
+        "add": "Añadir usuario",
+        "edit": "Editar usuario",
+        "changeStatus": "Cambiar estado",
+        "noData": "No hay resultados con tu búsqueda."
+      },
+      "dialogs": {
+        "create": {
+          "titleDialog": "Crear usuario",
+          "username": "Usuario",
+          "password": "Contraseña",
+          "submit": "Crear"
+        },
+        "update": {
+          "titleDialog": "Actualizar usuario",
+          "username": "Usuario",
+          "password": "Contraseña",
+          "submit": "Actualizar",
+          "errors": {
+            "noData": "No se ha podido identificar el usuario."
+          }
+        }
+      }
+    }
+  }
+}

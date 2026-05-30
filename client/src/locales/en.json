@@ -1,0 +1,498 @@
+{
+  "index": {
+    "bioOmar": "Clinical psychologist, psychoanalyst, and interdisciplinary creator with a career oriented towards the exploration of the psyche, symbolic language, and manifestations of the unconscious. Throughout his experience, he has developed his own approach that integrates the analysis of traditional tales, the study of archetypes, and the symbolic and narrative interpretation of dreams as privileged ways to understand the human experience.",
+    "mission": "Mission",
+    "vision": "Vision",
+    "missionDescription": "Our mission is to accompany people in understanding their dreams and their inner world through deep psychology and symbolic language.",
+    "visionDescription": "Our vision is to be a benchmark in the study of dreams, symbols, and self-knowledge, integrating psychology, art, and exploration of the inner world.",
+    "philosophy": {
+      "title": "Philosophy and Approach",
+      "point-1": "Deep psychology and archetypes",
+      "point-2": "Myths, tales, and universal symbolism",
+      "point-3": "Personal narrative as transformation",
+      "point-4": "Listening to the inner world"
+    },
+    "readMore": "Read more",
+    "methodology": {
+      "title": "Methodology",
+      "p-1": "At Aurora Onírica, we believe that dreams are a bridge between consciousness and the soul.",
+      "p-2": "Each symbol is a door, each image is a story, each dream scenario is a mirror."
+    },
+    "purpose": "Our purpose is to accompany you in the discovery of your inner world so that, by knowing yourself deeply, you find clarity, transformation and a more authentic sense of your path."
+  },
+  "services": {
+    "title": "Our Services",
+    "p-1": "Each space is designed so that people can clearly see what their inner world wants to express.",
+    "p-2": "Without filters or judgments.",
+    "differential": "Differential",
+    "readMore": "Read more",
+    "readServices": "View services",
+    "itsForYou": "It is for you if",
+    "price": "Schedules, duration, and prices are sent privately according to requirements.",
+    "point-1": "🌙 You feel that your dreams bring important messages.",
+    "point-2": "🔄 You are in a moment of change, crisis, or search.",
+    "point-3": "🗝️ You are interested in symbolism, fairy tales, or deep psychology.",
+    "point-4": "🪞 You want to better understand your inner world.",
+    "point-5": "🎓 You are a psychology student or therapist.",
+    "point-6": "🎨 You are a creator, artist, or writer looking for inspiration.",
+    "point-7": "🔮 You wish to connect with your intuition, your unconscious, and your personal history.",
+    "goBack": "Go back",
+    "individual": {
+      "title": "Individual",
+      "description": "An intimate and deep experience where we explore your dreams, symbols, and internal movements from deep psychology. In this space, we guide you to recognize the archetypal forces operating from your unconscious, revealing what your soul already knows but your consciousness has not yet heard.",
+      "paragraph_2": "Each session is a bridge between your inner world and your daily reality: what you discover inside aligns with real transformations outside. Here we accompany your process from metaphor, the symbolic, and dream language, so you can move towards a more conscious and authentic version of yourself.",
+      "differential": "A unique symbolic-psychological approach that integrates dreams, fantasies, archetypes, and internal narratives to activate real changes in daily life. Your dream guides the process, and your life actively responds."
+    },
+    "couple": {
+      "title": "Couples",
+      "description": "A safe space where each member of the couple listens not only to the other but also to their own inner world; through dreams, symbols, and becoming aware of the psychological projections that the couple mutually makes on each other. We accompany this process to discover the hidden dynamics that influence the bond: that which is not said but is dreamed; that which is not named but is repeated.",
+      "paragraph_2": "From deep psychology, we help couples transform wounds, patterns, and tensions through a more honest, compassionate, and conscious understanding of the path together.",
+      "differential": "A symbolic approach that reveals the unconscious mythology of the couple. What each person works on internally is reflected in the bond, generating real changes in the relationship."
+    },
+    "conferences": {
+      "title": "Deep Conferences",
+      "description": "Inspiring and revitalizing talks where dreams, archetypes, and psychic life are presented as fundamental scenarios for understanding the human experience. Each conference transforms how the audience understands their internal processes, showing how the symbolic and the dreamlike shape daily reality.",
+      "paragraph_2": "",
+      "differential": "Powerful narratives that connect science, poetry, art, and spirituality with practical examples connected to the social phenomena of the era. The audience walks away with clarity, motivation, and a new look at themselves."
+    },
+    "workshops": {
+      "title": "Workshops",
+      "description": "Experiential encounters where the world of dreams comes to life as a creative, psychological, spiritual, and transforming tool. Here we guide participants to explore personal and collective psychological complexes.",
+      "paragraph_2": "Each workshop is designed to provoke an awakening: what you discover in your inner world allows you to act with greater clarity, personal power, and coherence to interact with your outer reality.",
+      "differential": "Unique methodologies based on deep psychology, art, symbolism, and experiential dynamics. Aurora Onírica's workshops move psychic energy so that transformation is a fact from within and a manifestation in each person's interpersonal relationships."
+    },
+    "webinars": {
+      "title": "Masterclass Webinars",
+      "description": "Informative, intensive, and deeply revealing online spaces. We focus on teaching how to actively relate to our dreams, understand archetypes, and work with the unconscious, applicable to the events of people's daily lives.",
+      "paragraph_2": "What you learn allows you to understand your inner world with a new language, unlock personal processes, and trigger changes in your outer reality.",
+      "paragraph_3": "We use creative imagination so that knowledge is embodied from the depths of being, granting a new reality to your life.",
+      "differential": "Clear, deep, and applicable content, guided from dream thought and symbolic psychology. You don't just learn: you transform."
+    },
+    "consulting": {
+      "title": "Specialized Consultations",
+      "description": "Personalized support for creators, therapists, artists, psychologists, and entrepreneurs who need to integrate a symbolic and dreamlike look into their projects or processes.",
+      "paragraph_2": "We study and explore your ideas, your purpose, and your vision, understanding that there are internal forces that guide you and facilitate your path when accompanying you, or on the contrary, block you. Always! There are internal forces that accompany you. We help you align your psychic world with your external goals.",
+      "differential": "A consultation that goes beyond the technical: we work with your unconscious world so that your project has soul, coherence, and integral reality. That is, connection and correspondence between your interior and your exterior."
+    },
+    "encounters": {
+      "title": "Creative Encounters",
+      "description": "Experiential encounters where we combine the power of active imagination, creativity, the adventure of art, the depth of the symbolic, and the exploration of your internal landscapes. Here, psychic characters, dream scenarios, powerful allies, and symbolic narratives that reveal your personal mythology are created.",
+      "paragraph_2": "The creative process becomes therapy: what emerges in the artwork is a message from the soul that transforms your life outside.",
+      "differential": "We integrate art, deep psychology, dreams, and creativity as a path of self-knowledge. A laboratory of images, sensations, and affects where the inner world expresses itself to reorder your outer life."
+    }
+  },
+  "navBar": {
+    "home": "Home",
+    "blog": "Blog",
+    "events": "Events",
+    "services": "Services",
+    "aboutUs": "About Us",
+    "contact": "Contact"
+  },
+  "heroSection": {
+    "slogan": "Where dreams reveal their meaning",
+    "explore": "Explore",
+    "card1": "Individual Sessions",
+    "card2": "Deep Conferences",
+    "card3": "Creative Encounters"
+  },
+  "aboutUs": {
+    "slogan": "Where dreams reveal their meaning",
+    "creadoresOniricos": {
+      "p-1": "Aurora Onírica is a space dedicated to the exploration of the inner world through the understanding of dreams, symbols, and narratives that emerge from the unconscious. From a psychological, artistic, and deeply human perspective, we accompany each person in the process of discovering new meanings, expanding self-knowledge, and strengthening their connection with themselves.",
+      "p-2": "More than an office, it is a meeting place with one's own history."
+    },
+    "bioOmar": {
+      "p-1": "Clinical psychologist, psychoanalyst, and interdisciplinary creator with a career oriented towards the exploration of the psyche, symbolic language, and manifestations of the unconscious. Throughout his experience, he has developed his own approach that integrates the analysis of traditional tales, the study of archetypes, and the symbolic and narrative interpretation of dreams as privileged ways to understand the human experience.",
+      "p-2": "His therapeutic work is based on attentive listening, deep understanding of symbols, and respect for the uniqueness of each personal story. From this perspective, dreams are not understood as prophetic messages or predictions of the future, but as meaningful expressions of the unconscious that offer guidance on the conflicts, challenges, and possibilities present in each person's life."
+    },
+    "mission": {
+      "title": "Mission",
+      "p-1": "To accompany people in understanding their dreams and their inner world through deep psychology and symbolic language.",
+      "p-2": "Our mission is to facilitate processes of self-knowledge and provide tools that promote clarity, transformation, and connection with one's own essence."
+    },
+    "vision": {
+      "title": "Vision",
+      "p-1": "To be a benchmark in the study of dreams, symbols, and self-knowledge, integrating psychology, art, and exploration of the inner world.",
+      "p-2": "We aspire to build a community that finds in dreams a way to understand themselves, grow, and give meaning to their life experience."
+    },
+    "philosophy": {
+      "title": "Philosophy and Approach",
+      "p-1": "At Aurora Onírica, we believe that dreams are a bridge between consciousness and the soul. Each symbol is a door, each image is a story, each dream scenario is a mirror.",
+      "p-2": "Each dream shows the way; our work is to help you enter into a dynamic, brave, expansive, and integrative relationship that will unify your external reality and your inner reality.",
+      "points": {
+        "subtitle": "Our philosophy is based on",
+        "1": "🧠 Deep psychology and archetypes.",
+        "2": "🧚‍♂️ Fairy tales and universal mythology.",
+        "3": "🃏 Tarot as a tool for contemplation and projection of the personal unconscious.",
+        "4": "📖 Personal narrative as a path of transformation.",
+        "5": "🗣️ The art of listening, dialoguing, understanding, and relating to the living forces of the inner world."
+      }
+    }
+  },
+  "blog": {
+    "noArticles": "There are no articles to display.",
+    "glossary": "Keywords"
+  },
+  "glossary": {
+    "title": "WORDS",
+    "noWords": "There are no words to display.",
+    "paragraph": "Throughout the blog, words or concepts that are not common may appear. In this section, we compile and explain them clearly so that you can better understand each article, regardless of your level of knowledge."
+  },
+  "events": {
+    "title": "Upcoming Events",
+    "noEvents": "There are no events to display.",
+    "modality1": "In-person",
+    "modality2": "Virtual",
+    "link": "Registration link"
+  },
+  "footer": {
+    "contact": "Contact",
+    "schedule": "Schedule",
+    "chars": "Features",
+    "bilingual": "Bilingual care",
+    "modality": "In-person and/or virtual modality"
+  },
+  "socialNetworks": {
+    "titleLeft": "Contact",
+    "titleRight": "Social Networks",
+    "copyLink": "Copy link",
+    "copied": "Link copied to clipboard",
+    "goToLink": "Open link"
+  },
+  "404": {
+    "title": "Page not found",
+    "description": "Sorry, the page you are looking for does not exist.",
+    "description_2": "This might mean nothing.",
+    "goBack": "Go back"
+  },
+  "admin": {
+    "siderbar": {
+      "title": "Menu",
+      "events": "Events",
+      "blog": "Blog",
+      "users": "Users",
+      "glossary": "Glossary",
+      "settings": "Settings",
+      "language": "Change language",
+      "logout": "Log out"
+    },
+    "login": {
+      "title": "Log in to the administrator portal.",
+      "subtitle": "Enter username and password.",
+      "form": {
+        "username": "Username",
+        "usernamePlaceholder": "Enter your username",
+        "password": "Password",
+        "passwordPlaceholder": "Enter your password.",
+        "errors": {
+          "username": {
+            "required": "Username is required.",
+            "minLength": "Username is too short.",
+            "maxLength": "Username is too long."
+          },
+          "password": {
+            "required": "Password is required.",
+            "minLength": "Password is too short.",
+            "maxLength": "Password is too long."
+          }
+        },
+        "submit": "Log In"
+      }
+    },
+    "blog": {
+      "header": {
+        "link": "Home",
+        "title": "Blog"
+      },
+      "errors": {
+        "requiredTitle": "Title is required.",
+        "requiredSubtitle": "Subtitle is required.",
+        "requiredDescription": "Description is required.",
+        "requiredImage": "Image is required.",
+        "imageExt": "Invalid file.",
+        "maxLengthTitle": "Title is too long.",
+        "maxLengthSubtitle": "Subtitle is too long.",
+        "maxLengthDescription": "Description is too long.",
+        "minLengthTitle": "Title is too short.",
+        "minLengthSubtitle": "Subtitle is too short.",
+        "minLengthDescription": "Description is too short."
+      },
+      "title": "BLOG ARTICLES",
+      "table": {
+        "add": "Add article",
+        "title": "Title",
+        "subtitle": "Subtitle",
+        "date": "Publication date",
+        "status": "Article status",
+        "actions": "Actions",
+        "search": "Search by title",
+        "columns": "Columns",
+        "buttonNext": "Next",
+        "buttonPrev": "Previous",
+        "page": "Page",
+        "of": "of",
+        "status1": "Activated",
+        "status0": "Disabled",
+        "viewMore": "View more",
+        "editEn": "Edit English version",
+        "editEs": "Edit Spanish version",
+        "editImage": "Update image",
+        "changeStatus": "Change status",
+        "noData": "No results found for your search."
+      },
+      "dialogs": {
+        "viewMore": {
+          "titleDialog": "Full article information",
+          "title": "Article title",
+          "subtitle": "Article subtitle",
+          "date": "Publication date",
+          "description": "Article description",
+          "status": "Article status",
+          "status1": "Activated",
+          "status0": "Disabled",
+          "image": "Article image"
+        },
+        "updateVersion": {
+          "titleDialog": "Update version",
+          "title": "Article title",
+          "subtitle": "Article subtitle",
+          "description": "Article description",
+          "submit": "Update",
+          "errors": {
+            "noData": "Could not identify the article."
+          }
+        },
+        "updateImage": {
+          "titleDialog": "Update image",
+          "submit": "Update",
+          "image": "Select the new image",
+          "currentImage": "Current image."
+        },
+        "create": {
+          "titleDialog": "Create article",
+          "title_es": "Title in Spanish",
+          "title_en": "Title in English",
+          "subtitle_es": "Subtitle in Spanish",
+          "subtitle_en": "Subtitle in English",
+          "description_es": "Description in Spanish",
+          "description_en": "Description in English",
+          "image": "Image",
+          "submit": "Create"
+        }
+      }
+    },
+    "events": {
+      "header": {
+        "link": "Home",
+        "title": "Events"
+      },
+      "errors": {
+        "requiredTitle": "Title is required.",
+        "requiredDescription": "Event information is required.",
+        "maxLengthTitle": "Title is too long.",
+        "minLengthTitle": "Title is too short.",
+        "maxLengthDescription": "Event information is too long.",
+        "minLengthDescription": "Event information is too short.",
+        "requiredDate": "Date is required.",
+        "requiredTime": "Time is required.",
+        "requiredModality": "Modality is required.",
+        "requiredAddress": "Address is required if the modality is in-person",
+        "requiredInscriptionLink": "Registration link is required if the modality is virtual",
+        "minLengthAddress": "Address is too short.",
+        "maxLengthAddress": "Address is too long.",
+        "minlengthInscriptionLink": "Registration link is too short.",
+        "maxlengthInscriptionLink": "Registration link is too long."
+      },
+      "title": "EVENTS",
+      "table": {
+        "title": "Title",
+        "modality": "Modality",
+        "InPerson": "In-person",
+        "virtual": "Virtual",
+        "date": "Event date",
+        "hour": "Event time",
+        "status": "Event status",
+        "status1": "Activated",
+        "status0": "Disabled",
+        "actions": "Actions",
+        "search": "Search by title",
+        "columns": "Columns",
+        "buttonNext": "Next",
+        "buttonPrev": "Previous",
+        "page": "Page",
+        "of": "of",
+        "viewMore": "View more",
+        "edit": "Edit event",
+        "editEn": "Edit English version",
+        "editEs": "Edit Spanish version",
+        "editImage": "Update image",
+        "changeStatus": "Change status",
+        "noData": "No results found for your search.",
+        "add": "Add Event"
+      },
+      "dialogs": {
+        "viewMore": {
+          "titleDialog": "Full event information",
+          "title": "Event title",
+          "date": "Event date",
+          "hour": "Event time",
+          "description": "Article description",
+          "inscription_link": "Registration link",
+          "address": "Event address",
+          "status": "Event status",
+          "noApply": "Not applicable.",
+          "image": "Event image"
+        },
+        "update": {
+          "titleDialog": "Update event",
+          "selectDate": "Select event date",
+          "date": "Event date",
+          "time": "Event time",
+          "modality": "Event modality",
+          "modality1": "In-person",
+          "modality2": "Virtual",
+          "address": "Event address",
+          "inscription_link": "Registration link",
+          "submit": "Update"
+        },
+        "updateVersion": {
+          "titleDialog": "Update version",
+          "title": "Event title",
+          "description": "Event description",
+          "submit": "Update",
+          "errors": {
+            "noData": "Could not identify the event."
+          }
+        },
+        "updateImage": {
+          "titleDialog": "Update image",
+          "submit": "Update",
+          "image": "Select the new image",
+          "currentImage": "Current image."
+        },
+        "create": {
+          "titleDialog": "Create Event",
+          "title_es": "Title in Spanish",
+          "title_en": "Title in English",
+          "description_es": "Event information in Spanish",
+          "description_en": "Event information in English",
+          "date": "Event date",
+          "selectDate": "Select event date",
+          "time": "Event time",
+          "modality": "Event modality",
+          "modality1": "In-person",
+          "modality2": "Virtual",
+          "address": "Event address",
+          "inscription_link": "Registration link",
+          "image": "Image",
+          "submit": "Create"
+        }
+      }
+    },
+    "glossary": {
+      "header": {
+        "link": "Home",
+        "title": "Glossary"
+      },
+      "errors": {
+        "requiredWord": "Word is required.",
+        "requiredDefinition": "Definition is required.",
+        "maxLengthWord": "Word is too long.",
+        "minLengthWord": "Word is too short.",
+        "maxLengthDefinition": "Definition is too long.",
+        "minLengthDefinition": "Definition is too short."
+      },
+      "title": "WORDS",
+      "table": {
+        "word": "Word",
+        "definition": "Word definition",
+        "status": "Word status",
+        "status0": "Not visible",
+        "status1": "Visible",
+        "actions": "Actions",
+        "search": "Search by word",
+        "columns": "Columns",
+        "buttonNext": "Next",
+        "buttonPrev": "Previous",
+        "page": "Page",
+        "of": "of",
+        "add": "Add word",
+        "editEs": "Edit word in Spanish",
+        "editEn": "Edit word in English",
+        "changeStatus": "Change status",
+        "noData": "No results found for your search."
+      },
+      "dialogs": {
+        "create": {
+          "titleDialog": "Create word",
+          "word_es": "Word in Spanish",
+          "word_en": "Word in English",
+          "definition_es": "Definition in Spanish",
+          "definition_en": "Definition in English",
+          "submit": "Create"
+        },
+        "update": {
+          "titleDialog": "Update word",
+          "word": "Word",
+          "definition": "Definition",
+          "submit": "Update",
+          "errors": {
+            "noData": "Could not identify the word."
+          }
+        }
+      }
+    },
+    "users": {
+      "header": {
+        "link": "Home",
+        "title": "Users"
+      },
+      "errors": {
+        "requiredUser": "Username is required.",
+        "requiredPassword": "Password is required.",
+        "minLengthUser": "Username is too short.",
+        "maxLengthUser": "Username is too long.",
+        "minLengthPassword": "Password is too short.",
+        "maxLengthPassword": "Password is too long.",
+        "patternPassword": "Password must contain at least 3 numbers and one uppercase letter."
+      },
+      "title": "USERS",
+      "table": {
+        "username": "Username",
+        "password": "Password",
+        "status": "User status",
+        "status1": "Activated",
+        "status0": "Disabled",
+        "actions": "Actions",
+        "search": "Search by user",
+        "columns": "Columns",
+        "buttonNext": "Next",
+        "buttonPrev": "Previous",
+        "page": "Page",
+        "of": "of",
+        "add": "Add user",
+        "edit": "Edit user",
+        "changeStatus": "Change status",
+        "noData": "No results found for your search."
+      },
+      "dialogs": {
+        "create": {
+          "titleDialog": "Create user",
+          "username": "Username",
+          "password": "Password",
+          "submit": "Create"
+        },
+        "update": {
+          "titleDialog": "Update user",
+          "username": "Username",
+          "password": "Password",
+          "submit": "Update",
+          "errors": {
+            "noData": "Could not identify the user."
+          }
+        }
+      }
+    }
+  }
+}

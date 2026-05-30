@@ -1,0 +1,15 @@
+{
+    "EVENT_NOT_FOUND": "Event not found.",
+    "GET_EVENT_SUCCESS": "Event retrieved successfully.",
+    "GET_EVENTS_SUCCESS": "Events retrieved successfully.",
+    "GET_EVENTS_ERROR": "Error retrieving events.",
+    "CREATE_EVENT_SUCCESS": "Event created successfully.",
+    "NOT_FILE_UPLOAD": "No file uploaded.",
+    "CREATE_EVENT_ERROR": "Error creating event.",
+    "UPDATE_EVENT_SUCCESS": "Event updated successfully.",
+    "UPDATE_EVENT_ERROR": "Error updating event.",
+    "UPDATE_EVENT_IMAGE_SUCCESS": "Event image updated successfully.",
+    "UPDATE_EVENT_IMAGE_ERROR": "Error updating event image.",
+    "UPDATE_EVENT_STATUS_SUCCESS": "Event status updated successfully.",
+    "UPDATE_EVENT_STATUS_ERROR": "Error updating event status."
+}

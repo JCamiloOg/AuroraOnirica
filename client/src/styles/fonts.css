@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "RomanceFatal";
+    src: url("../assets/fonts/romance/romancefatalserifJCFonts.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Times New Roman';
+    src: url("../assets/fonts/timesNewRoman/times.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Liberation Serif';
+    src: url("../assets/fonts//liberationSerif/LiberationSerif-Regular.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}

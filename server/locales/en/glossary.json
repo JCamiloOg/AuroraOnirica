@@ -1,0 +1,12 @@
+{
+    "WORD_NOT_FOUND": "Word not found.",
+    "WORD_GET_SUCCESS": "Word obtained successfully.",
+    "WORDS_GET_SUCCESS": "Words obtained successfully.",
+    "WORDS_GET_ERROR": "Error obtaining words.",
+    "WORD_CREATE_SUCCESS": "Word created successfully.",
+    "WORD_CREATE_ERROR": "Error creating word.",
+    "WORD_UPDATE_SUCCESS": "Word updated successfully.",
+    "WORD_UPDATE_ERROR": "Error updating word.",
+    "WORD_UPDATE_STATUS_SUCCESS": "Word status updated successfully.",
+    "WORD_UPDATE_STATUS_ERROR": "Error updating word status."
+}

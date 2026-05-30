@@ -1,0 +1,14 @@
+{
+    "ARTICLE_NOT_FOUND": "Artículo no encontrado.",
+    "ARTICLE_GET_SUCCESS": "Artículo obtenido con éxito.",
+    "ARTICLES_GET_SUCCESS": "Artículos obtenidos con éxito.",
+    "ARTICLES_GET_ERROR": "Error al obtener los artículos.",
+    "ARTICLE_CREATED": "Artículo creado con éxito.",
+    "ARTICLE_ERROR_CREATED": "Error al crear el artículo.",
+    "ARTICLE_UPDATED": "Artículo actualizado con éxito.",
+    "ARTICLE_ERROR_UPDATED": "Error al actualizar el artículo.",
+    "ARTICLE_UPDATE_IMAGE_SUCCESS": "Imagen del artículo actualizada con éxito.",
+    "ARTICLE_UPDATE_IMAGE_ERROR": "Error al actualizar la imagen del artículo.",
+    "ARTICLE_UPDATE_STATUS_SUCCESS": "Estado del artículo actualizado con éxito.",
+    "ARTICLE_UPDATE_STATUS_ERROR": "Error al actualizar el estado del artículo."
+}

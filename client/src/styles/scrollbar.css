@@ -1,0 +1,14 @@
+.scrollMin::-webkit-scrollbar {
+    width: 4px;
+    height: 4px;
+
+}
+
+.scrollMin::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+.scrollMin::-webkit-scrollbar-thumb {
+    background-color: rgb(89, 88, 90, 0.8);
+    border-radius: 9999px;
+}

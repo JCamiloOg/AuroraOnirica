@@ -1,0 +1,12 @@
+{
+    "WORD_NOT_FOUND": "Palabra no encontrada.",
+    "WORD_GET_SUCCESS": "Palabra obtenida correctamente.",
+    "WORDS_GET_SUCCESS": "Palabras obtenidas correctamente.",
+    "WORDS_GET_ERROR": "Error al obtener las palabras.",
+    "WORD_CREATE_SUCCESS": "Palabra creada correctamente.",
+    "WORD_CREATE_ERROR": "Error al crear la palabra.",
+    "WORD_UPDATE_SUCCESS": "Palabra actualizada correctamente.",
+    "WORD_UPDATE_ERROR": "Error al actualizar la palabra.",
+    "WORD_UPDATE_STATUS_SUCCESS": "Estado de la palabra actualizado correctamente.",
+    "WORD_UPDATE_STATUS_ERROR": "Error al actualizar el estado de la palabra."
+}

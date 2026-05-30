@@ -1,0 +1,14 @@
+{
+    "ARTICLE_NOT_FOUND": "Article not found.",
+    "ARTICLE_GET_SUCCESS": "Article retrieved successfully.",
+    "ARTICLES_GET_SUCCESS": "Articles retrieved successfully.",
+    "ARTICLES_GET_ERROR": "Error retrieving articles.",
+    "ARTICLE_CREATED": "Article created successfully.",
+    "ARTICLE_ERROR_CREATED": "Error creating article.",
+    "ARTICLE_UPDATED": "Article updated successfully.",
+    "ARTICLE_ERROR_UPDATED": "Error updating article.",
+    "ARTICLE_UPDATE_IMAGE_SUCCESS": "Article image updated successfully.",
+    "ARTICLE_UPDATE_IMAGE_ERROR": "Error updating article image.",
+    "ARTICLE_UPDATE_STATUS_SUCCESS": "Article status updated successfully.",
+    "ARTICLE_UPDATE_STATUS_ERROR": "Error updating article status."
+}

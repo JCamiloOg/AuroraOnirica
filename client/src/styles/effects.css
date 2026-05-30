@@ -1,0 +1,12 @@
+.glow-white {
+    filter: drop-shadow(0 0 6px rgba(255, 215, 120, 0.6)) drop-shadow(0 0 14px rgba(255, 255, 255, 0.6));
+}
+
+.glow-white:hover {
+    filter: drop-shadow(0 0 6px rgba(255, 215, 120, 0.6)) drop-shadow(0 0 20px rgba(255, 255, 255));
+}
+
+.glow-gold {
+    filter:
+        drop-shadow(0 0 4px rgba(255, 200, 80, 0.55)) drop-shadow(0 0 10px rgba(255, 170, 60, 0.45)) drop-shadow(0 0 18px rgba(255, 220, 120, 0.35));
+}
