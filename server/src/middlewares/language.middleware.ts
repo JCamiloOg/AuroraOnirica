@@ -1,4 +1,3 @@
-import { getLangFromHeader } from "@/utils/formatHeaderLanguage";
 import { NextFunction, Request, Response } from "express";
 
 
