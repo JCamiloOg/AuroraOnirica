@@ -24,7 +24,7 @@ export async function login(req: Request<unknown, unknown, { username: string; p
 
         const token = jwt.sign({ id: user.id, status: user.status }, SECRET_KEY, { expiresIn: "72h" });
 
-        res.cookie("token", token, { httpOnly: true, sameSite: "strict", maxAge: 60 * 60 * 1000 * 72 });
+        res.cookie("token", token, { httpOnly: true, sameSite: "none", maxAge: 60 * 60 * 1000 * 72 });
 
         return res.status(200).json({ message: t("auth:LOGIN_SUCCESSFUL", req.lang), redirect: "/admin/blog" });
 
