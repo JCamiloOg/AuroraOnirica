@@ -99,7 +99,7 @@ export default function Events() {
                         {
                             events?.length ?
                                 events.map((event, idx) => (
-                                    <div data-aos="fade" className="lg:col-span-6 col-span-12">
+                                    <div className="lg:col-span-6 col-span-12">
                                         <CardEvent event={event} alt={(idx + 1) % 2 === 0} />
                                     </div>
                                 ))
