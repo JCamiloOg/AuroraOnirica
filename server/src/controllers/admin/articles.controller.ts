@@ -7,6 +7,7 @@ import axios from "axios";
 import FormData from "form-data";
 import { API_KEY_IMGBB } from "@/config/env";
 import { ResponseImgBB } from "@/types/imgBB";
+import { sqlFormatDate } from "@/utils/formatDate";
 
 
 export async function getArticles(req: Request<{ id: string }, unknown, unknown, { lang?: string }>, res: Response<{ message: string, articles?: Article[] | ArticleByID[] }>) {
@@ -59,7 +60,7 @@ export async function createArticle(req: Request<unknown, unknown, CreateArticle
 
         const { title_es, title_en, subtitle_es, subtitle_en, description_es, description_en } = req.body;
 
-        const date = new Date().toISOString();
+        const date = sqlFormatDate(new Date());
 
         const response = await insertArticle(date, data.data.url, data.data.delete_url);
 
