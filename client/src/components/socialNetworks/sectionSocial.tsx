@@ -24,9 +24,9 @@ export default function SectionSocial() {
         if (el) rowsRef.current[index] = el;
     }
 
-    const openLink = (url: string) => {
-        window.open(url, "_blank");
-    };
+    // const openLink = (url: string) => {
+    //     window.open(url, "_blank");
+    // };
 
 
     useEffect(() => {
